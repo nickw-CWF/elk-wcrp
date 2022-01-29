@@ -1,16 +1,25 @@
-# Welcome to your Jupyter Book
+# Elk River Watershed | Qukin ?amak?is
 
-This is a small sample book to give you a feel for how book content is
-structured.
+## Connectivity Remediation Plan: 2021-2051
+
+January 2022, Version 1.0
+
+Canadian Wildlife Federation
+
+350 Michael Cowpland Drive
+
+Kanata, Ontario K2M 2W1
+
+Telephone: 1-877-599-5777 | 613-599-9594
+
+[www.cwf-fcf.org](www.cwf-fcf.org)
+
+© 2022
+
+**Suggested Citation:**
+Mazany-Wright, N., S. M. Norris, J. Noseworthy, B. Rebellato, S. Sra, and N. W. R. Lapointe. 2022. Elk River Watershed Connectivity Remediation Plan: 2021- 2051. Canadian Wildlife Federation. Ottawa, Ontario, Canada. 
+
 
 :::{note}
-Here is a note!
+This book is under development.
 :::
-
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more.
