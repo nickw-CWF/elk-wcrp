@@ -6,4 +6,5 @@ root: intro
 chapters:
 - file: acknowledgements
 - file: purpose
+- file: planning-team
 - file: mymarkdownfile
